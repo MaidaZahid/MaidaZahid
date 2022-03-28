@@ -1,13 +1,13 @@
-👋 Hi, I’m @MaidaZahid
-👀 I’m interested in Learning new Things
-🌱 I’m currently learning about Amazon Virtual Assistant
+-👋 Hi, I’m @MaidaZahid
+-👀 I’m interested in Learning new Things
+-🌱 I’m currently learning about Amazon Virtual Assistant
 
-📫 How to reach me
+-📫 How to reach me
         maidazahid6464@gmail.com  
         +92 317 000 3282
-Languages
+-Languages
     Urdu (Native) | English (Conversational)      
-Educational Background
+-Educational Background
              BSCS | University of Sargodha 2018-2022 | 3.17 CGPA
              ICS  | Punjab College Sargodha | 84% 
              Matriculation | Presentation Convent High School | 86%
